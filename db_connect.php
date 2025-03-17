@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$user = "root";
-$password = "";
-$dbname = "tummy_pillow_db";
+$host = "sql103.infinityfree.com";
+$user = "if0_38218621";
+$password = "SuOXcuacq0J";
+$dbname = "if0_38218621_proj";
 
 $conn = new mysqli($host, $user, $password, $dbname);
 
